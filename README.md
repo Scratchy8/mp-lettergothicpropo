@@ -22,6 +22,4 @@ I know this'll get me flamed and make my font flop _(please don't flop!)_ but it
 + True italics
 + Over 4 weights _(with italics)_
 + Stylistic alternates
-
-**Partial support:**
-+ IPA
++ Partial IPA
