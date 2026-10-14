@@ -16,7 +16,6 @@ I used FontForge's Condense/Extend feature to fix the Mm Ww and the caps to make
 I know this'll get me flamed and make my font flop _(please don't flop!)_ but it's actually based on New Letter Gothic.
 
 # What does it have?
-**Full support:**
 + Cyrillic
 + Greek
 + True italics
