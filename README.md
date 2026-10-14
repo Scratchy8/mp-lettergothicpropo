@@ -13,12 +13,21 @@ I added Cyrillic, Greek, true italics, stylistic alternates, tabular figures, sl
 I used FontForge's Condense/Extend feature to fix the Mm Ww and the caps to make them wider.
 
 ## And what is it based on?
-I know this'll get me flamed and make my font flop _(please don't flop!)_ but it's actually based on New Letter Gothic.
+It's based on New Letter Gothic, a font made for ParaType.
 
-# What does it have?
+## What does it have?
 + Cyrillic
 + Greek
 + True italics
 + Over 4 weights _(with italics)_
 + Stylistic alternates
 + Partial IPA
+
+## Does it work in body text or headings?
+Both! I made it with the idea in mind people would use this for UI/UX, but I'm sure there's an e-pub out there looking for a font like this.
+
+**Dark mode:**
+![Dark mode showcase](images/dark-showcase.png)
+
+**Light mode:**
+![Light mode showcase](images/light-showcase.png)
