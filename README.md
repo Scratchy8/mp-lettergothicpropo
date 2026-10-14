@@ -1,7 +1,7 @@
 # MP Letter Gothic Propo
 ## It's a proportional version of Letter Gothic.
 I took Letter Gothic and made it proportional. I also added some alts and tabular figures.
-
+![Banner for MPLetterGothicPropo](images/g51)
 # FAQ
 ## Why does it even exist?
 See, I love Letter Gothic because of its simplicity. I single-handedly think the reimaginations like Letter Gothic Recast look amazing as monospace. And I wanted a proportional version of the font to accompany it. And so I developed MP Letter Gothic Propo, all on FontForge.
